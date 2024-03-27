@@ -17,7 +17,6 @@ const render = async () => {
     productData,
     cartInstance
   );
-  console.log(cartInstance);
 
   productsInstance.showProducts();
 };
